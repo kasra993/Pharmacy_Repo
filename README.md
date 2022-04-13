@@ -1,5 +1,5 @@
 # Pharmacy_Repo
-this project is an ongoing project which is being written with react , node , express and by the use of mysql database
+this project is an ongoing project which is being written with react , node , express , Nextjs and by the use of mysql database
 the whole purpose of this project is so that we would create an ecommerce website with the possibility of selling some drugs related to 
 mr Ghorbani's pharmacy  .
 we are doing so by the use of react , node , express (as backend API helper ) and our relational database (mysql) .
